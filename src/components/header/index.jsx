@@ -4,7 +4,7 @@ import { HeaderStyled, NavStyled, ProfileImage } from "./styled";
 function Header() {
   const pages = [ 
     { route: "/", description: "Home" },
-    { route: "/aboutMe", description: "Sobre Mim" },
+    { route: "/sobremim", description: "Sobre Mim" },
     { route: "/portfolio", description: "Portfolio" }]
 
     

@@ -1,5 +1,4 @@
 import { FooterStyled } from "./styled";
-
 function Footer() {
   return (
     <FooterStyled>
