@@ -1,13 +1,13 @@
 import { Header } from "../components/header"
 import { Footer } from "../components/footer"
 
-function Home() {
+function Portfolio() {
     return (
       <>
       <Header/>
+      <h1>PORTFOLIO</h1>
       <Footer/>
       </>
     )
   }
-  export default Home
-  
+  export { Portfolio }
